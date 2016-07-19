@@ -11,5 +11,7 @@ User have the ability to filter by setting the maximum price. Moreover they may 
 
 Source code for ui.R and server.R files are available on the GitHub **https://github.com/sergiosk/Course-Project-Shiny-Application**
 
+Application Link **https://sergiosck.shinyapps.io/diamonds/**
+
 
 
